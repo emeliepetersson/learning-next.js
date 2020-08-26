@@ -4,4 +4,4 @@
 
 > In this lesson we will create a British Recipe app using NextJS and deploy the site to [Vercel](https://nextjs.org/docs/deployment)!
 
-https://learning-next-js-wine.vercel.app/about
+https://learning-next-js-wine.vercel.app
